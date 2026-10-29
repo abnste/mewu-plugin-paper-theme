@@ -9,3 +9,5 @@
 开发协议：[Mewu 外观扩展](https://github.com/abnste/mewu_ai/blob/master/docs/plugin-appearance.md)。开发 SDK：[Mewu SDK](https://github.com/abnste/mewu_ai/tree/master/packages/sdk)。
 
 许可：MPL-2.0。
+
+![Windows 中的 Paper 主题](screenshots/settings-windows.jpg)
